@@ -1,0 +1,10 @@
+{
+    "name": "mdsystems/twbs-pagination",
+    "description": "Forked version of twbs-pagination from https://github.com/josecebe/twbs-pagination",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "Apache 2.0",
+    "minimum-stability": "dev"
+}
